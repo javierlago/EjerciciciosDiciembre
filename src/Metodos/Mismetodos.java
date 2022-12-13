@@ -63,7 +63,7 @@ public  class Mismetodos {
     }
 
 public static String Imprime(String frase){
-        System.out.println(frase);
+        System.out.print(frase);
 
     return frase;
 }
