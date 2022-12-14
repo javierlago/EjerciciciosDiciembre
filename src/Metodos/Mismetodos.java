@@ -38,7 +38,7 @@ public  class Mismetodos {
         boolean repetirpregunta=false;
         do {
 
-        System.out.println("Desea repetir la operacion");
+        System.out.println("\nDesea repetir la operacion");
         String resp = br.readLine();
         switch (resp) {
             case "s":

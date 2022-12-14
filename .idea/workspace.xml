@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7762505-9954-4044-83eb-3dcc656792fa" name="Changes" comment="">
+    <list default="true" id="c7762505-9954-4044-83eb-3dcc656792fa" name="Changes" comment="EjercicioNotas">
+      <change afterPath="$PROJECT_DIR$/src/Dados/TiradadeTresdados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loteia/Primitiva.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tragaperras/tragaperras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Metodos/Mismetodos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Metodos/Mismetodos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/NumerosAleatorios/DiasSemana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumerosAleatorios/DiasSemana.java" afterDir="false" />
@@ -30,13 +34,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -46,6 +50,14 @@
       <option name="presentableId" value="Default" />
       <updated>1670957149575</updated>
     </task>
+    <task id="LOCAL-00001" summary="EjercicioNotas">
+      <created>1670964462624</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670964462624</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -58,5 +70,14 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="EjercicioNotas" />
+    <option name="LAST_COMMIT_MESSAGE" value="EjercicioNotas" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/EjerciciosDiciembre$Primitiva.ic" NAME="Primitiva Coverage Results" MODIFIED="1671045723542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Loteia.*</FILTER>
+    </SUITE>
   </component>
 </project>
