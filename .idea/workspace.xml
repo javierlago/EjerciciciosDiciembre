@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7762505-9954-4044-83eb-3dcc656792fa" name="Changes" comment="EjercicioNotas">
-      <change afterPath="$PROJECT_DIR$/src/Dados/TiradadeTresdados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loteia/Primitiva.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tragaperras/tragaperras.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChatGPT/chatgpt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JuegoPiedraPapelaTijera/PiedraPapelTijera.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Metodos/Mismetodos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Metodos/Mismetodos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumerosAleatorios/DiasSemana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumerosAleatorios/DiasSemana.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loteia/Primitiva.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loteia/Primitiva.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +54,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670964462624</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="EjercicioNotas">
+      <created>1671051221442</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671051221442</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,7 +80,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="EjercicioNotas" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/EjerciciosDiciembre$Primitiva.ic" NAME="Primitiva Coverage Results" MODIFIED="1671045723542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/EjerciciosDiciembre$Primitiva.ic" NAME="Primitiva Coverage Results" MODIFIED="1671215954068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Loteia.*</FILTER>
     </SUITE>
   </component>

@@ -2,18 +2,37 @@ package Loteia;
 
 import Metodos.Mismetodos;
 
+import java.io.IOException;
+
 public class Primitiva {
-    public static void main(String[] args) {
-        int numero,reintegro = 0,numeroanterior=0;
+    public static void main(String[] args) throws IOException {
+        int[] NunmeoLot;
+        NunmeoLot =new int[6];
+        int numero,reintegro;
 
-        for(int i=1;i<=6;i++){
-        do {
-            numero = (int) Math.floor(Math.random() * 49 + 1);
+        for(int i=0;i<6;i++){
 
-        }while(numero == numeroanterior);
-        Mismetodos.Imprime("El numero " + i + " es " + numero + "\n");
-        numeroanterior=numero;
+                numero = (int) Math.floor(Math.random() * 49 + 1);
+                boolean repetido=false;
+                for(int u=0;u<6;u++){
+                   if(NunmeoLot[u]==numero){
+                       repetido=true;
+                   }
+                   if(!repetido){
+                    NunmeoLot[i]=numero;
+
+                   }
+
+                }
+
+                Mismetodos.Imprime("El numero " + ((i)+1) + " es " + numero + "\n");
+
         }
-        Mismetodos.Imprime("El reintegro es " +(reintegro=(int) Math.floor(Math.random() * 9)));
+        Mismetodos.Imprime("El reintegro es " +(reintegro=(int) Math.floor(Math.random() * 10)));
     }
 }
+
+
+
+
+
